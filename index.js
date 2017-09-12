@@ -1,7 +1,7 @@
 // write your code below!
 
 var name = "Janet"
-var height = "160"
+var height = 160
 
 
 
